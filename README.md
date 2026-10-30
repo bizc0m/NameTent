@@ -6,6 +6,8 @@ Créez des chevalets porte-nom A4 avec noms, fonctions, logos et organisateur, p
 
 ## Utiliser sans installation, même hors ligne
 
+Un bouton **Télécharger l’outil hors ligne** est disponible dans l’en-tête du site, dans tous les modes. Il télécharge le fichier HTML autonome actuellement publié.
+
 1. Téléchargez `Miss-NameTent-V2.html` depuis le lien ci-dessus.
 2. Ouvrez-le dans un navigateur récent.
 3. Saisissez vos participants, ajustez les logos et téléchargez le PDF.
