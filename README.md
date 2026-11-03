@@ -1,5 +1,7 @@
 # Miss NameTent V2
 
+![Le chevalet facile — exemples de chevalets porte-nom accompagnés de la mascotte Miss NameTent.](docs/images/le-chevalet-facile.png)
+
 Créez des chevalets porte-nom A4 avec noms, fonctions, logos et organisateur, puis exportez-les en PDF.
 
 **[Ouvrir l’application](https://bizc0m.github.io/NameTent/)** · **[Télécharger le HTML autonome](https://github.com/bizc0m/NameTent/releases/latest/download/Miss-NameTent-V2.html)** · **[Code source](src/app.html)**
